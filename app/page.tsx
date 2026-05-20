@@ -3,7 +3,7 @@ import { status } from 'mcstatus-js';
 import ClientDashboard from './ClientDashboard'; // Tách phần đồ họa client để tối ưu tốc độ render
 
 // Đổi IP Server Minecraft của bạn tại đây
-const IP_SERVER = 'play.hypixel.net'; 
+const IP_SERVER = 'tbel1v1pvp.freezehost.com:8130'; 
 const TWELVE_HOURS = 12 * 60 * 60 * 1000;
 
 /**
