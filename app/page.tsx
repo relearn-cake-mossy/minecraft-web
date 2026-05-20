@@ -1,5 +1,5 @@
 import { kv } from '@vercel/kv';
-import { status } from 'mcstatus-js';
+import { status } from 'minecraft-status';
 import ClientDashboard from './ClientDashboard'; // Tách phần đồ họa client để tối ưu tốc độ render
 
 // Đổi IP Server Minecraft của bạn tại đây
